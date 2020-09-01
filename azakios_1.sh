@@ -7,3 +7,4 @@ if [ "${@:-}" != "Try again" ]
 then
 	echo -e "\e[93mYou are azakios member are'nt you\e[0m";
 fi
+#created by azakios
